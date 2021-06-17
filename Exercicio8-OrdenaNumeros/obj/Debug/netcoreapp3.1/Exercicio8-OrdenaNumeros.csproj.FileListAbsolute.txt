@@ -1,0 +1,13 @@
+C:\Users\Vinny\source\repos\Exercicio8-OrdenaNumeros\bin\Debug\netcoreapp3.1\Exercicio8-OrdenaNumeros.exe
+C:\Users\Vinny\source\repos\Exercicio8-OrdenaNumeros\bin\Debug\netcoreapp3.1\Exercicio8-OrdenaNumeros.deps.json
+C:\Users\Vinny\source\repos\Exercicio8-OrdenaNumeros\bin\Debug\netcoreapp3.1\Exercicio8-OrdenaNumeros.runtimeconfig.json
+C:\Users\Vinny\source\repos\Exercicio8-OrdenaNumeros\bin\Debug\netcoreapp3.1\Exercicio8-OrdenaNumeros.runtimeconfig.dev.json
+C:\Users\Vinny\source\repos\Exercicio8-OrdenaNumeros\bin\Debug\netcoreapp3.1\Exercicio8-OrdenaNumeros.dll
+C:\Users\Vinny\source\repos\Exercicio8-OrdenaNumeros\bin\Debug\netcoreapp3.1\Exercicio8-OrdenaNumeros.pdb
+C:\Users\Vinny\source\repos\Exercicio8-OrdenaNumeros\obj\Debug\netcoreapp3.1\Exercicio8-OrdenaNumeros.csprojAssemblyReference.cache
+C:\Users\Vinny\source\repos\Exercicio8-OrdenaNumeros\obj\Debug\netcoreapp3.1\Exercicio8-OrdenaNumeros.AssemblyInfoInputs.cache
+C:\Users\Vinny\source\repos\Exercicio8-OrdenaNumeros\obj\Debug\netcoreapp3.1\Exercicio8-OrdenaNumeros.AssemblyInfo.cs
+C:\Users\Vinny\source\repos\Exercicio8-OrdenaNumeros\obj\Debug\netcoreapp3.1\Exercicio8-OrdenaNumeros.csproj.CoreCompileInputs.cache
+C:\Users\Vinny\source\repos\Exercicio8-OrdenaNumeros\obj\Debug\netcoreapp3.1\Exercicio8-OrdenaNumeros.dll
+C:\Users\Vinny\source\repos\Exercicio8-OrdenaNumeros\obj\Debug\netcoreapp3.1\Exercicio8-OrdenaNumeros.pdb
+C:\Users\Vinny\source\repos\Exercicio8-OrdenaNumeros\obj\Debug\netcoreapp3.1\Exercicio8-OrdenaNumeros.genruntimeconfig.cache
